@@ -38,7 +38,7 @@ which shows the average budget per genre but the median is also displayed.
 The Genre with the highest ROI was Mystery, followed by News and Animation.
 
 
-![Genre Profit](<img width="956" alt="Genrewithhighestprofit" src="https://user-images.githubusercontent.com/45716414/180675663-e85846d2-371a-461a-8c26-fee16f754c57.png">)
+![Genre Profit](https://github.com/inagib21/Movie-Data-Analysis/blob/main/GenreWithHighestROI.png)
 
 The Genres with the highest profit was Animation, followed by Adventure and Sci-Fi.
 
