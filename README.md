@@ -1,4 +1,5 @@
 # Movie Data Analysis For Microsoft
+![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg)
 
 by Nagib Gonzalez
 
