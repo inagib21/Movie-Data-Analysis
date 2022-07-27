@@ -20,11 +20,11 @@ The third question that we would like to annswer is what should our expected ret
 ## Data
 We will be working with data from two sources.
 
-The Internet Movie Data Base (IMDB):
+The Internet Movie Data Base (IMDB): ![IMDb](https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg)
 
 IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows. The table that I used in this  database was the movie basics which contained the movie titles and genres. 
 
-The Numbers:
+The Numbers: ![The Numbers](https://github.com/inagib21/dsc-phase-1-project-v2-4/blob/master/numbers-logo-r.svg)
 
 The Numbers provides detailed movie financial analysis, including box office, DVD and Blu-ray sales reports, and release schedules.  This data set provides the financial data that we will be working with including production budget and worldwide gross. From this data set we were able to find the ROI percentage and profit.
 
