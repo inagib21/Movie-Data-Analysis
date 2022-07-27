@@ -56,3 +56,7 @@ The third Visualazition looked at the average budget per genre. The average budg
 
 
 To answer our third question on what our expected return should be I believe that it would make sense to have a portfolio of three movies with the genres that were recommended Animation, Adventure, and Sci-Fi. I would suggest we spend a maximum of 150 million per movie totaling 450 million for all thre movies. on that 450 million dollar investment, we should aim for a return of 250-275 percent which is a profit of 1.125-1.237 billion dollars.
+
+## For More Information
+Please feel free to look at the Jupyter notebook https://github.com/inagib21/Movie-Data-Analysis/blob/main/student.ipynb 
+You can also check out my presesentation for this analysis https://github.com/inagib21/Movie-Data-Analysis/blob/main/Movie_Data_Presentation.pdf
