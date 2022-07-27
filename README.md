@@ -34,15 +34,15 @@ As a measure of central tendency due to the skewness of the distributions and th
 which shows the average budget per genre but the median is also displayed.
 ## Results
 
-![Genre ROI](<img width="917" alt="GenreWithHighestROI" src="https://user-images.githubusercontent.com/45716414/180675184-e074747f-4bdc-46a2-b0e9-02be4462d85b.png">)
+![Genre ROI](https://github.com/inagib21/Movie-Data-Analysis/blob/main/GenreWithHighestROI.png)
 The Genre with the highest ROI was Mystery, followed by News and Animation.
 
 
-![Genre Profit](https://github.com/inagib21/Movie-Data-Analysis/blob/main/GenreWithHighestROI.png)
+![Genre Profit](https://github.com/inagib21/Movie-Data-Analysis/blob/main/Genrewithhighestprofit.png)
 
 The Genres with the highest profit was Animation, followed by Adventure and Sci-Fi.
 
-![Average Budget Per Genre](<img width="988" alt="Avgbudget" src="https://user-images.githubusercontent.com/45716414/180676012-aadbdbc7-64c9-4d80-bfe7-22f6e56b5ae0.png">)
+![Average Budget Per Genre](https://github.com/inagib21/Movie-Data-Analysis/blob/main/Avgbudget.png)
 
 The average budget for all genres was about 50 million.
 ## Conclusion
