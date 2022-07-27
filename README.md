@@ -59,4 +59,5 @@ To answer our third question on what our expected return should be I believe tha
 
 ## For More Information
 Please feel free to look at the Jupyter notebook https://github.com/inagib21/Movie-Data-Analysis/blob/main/student.ipynb 
+
 You can also check out my presesentation for this analysis https://github.com/inagib21/Movie-Data-Analysis/blob/main/Movie_Data_Presentation.pdf
