@@ -16,7 +16,7 @@ The first question that we would like to ask is what genres should we focus on m
 
 The second question that we would like to ask is what should our budget be for the films? 
 
-The third question that we would like to annswer is what should our expected return be given our budget. Lets begin with looking at the different datasets that we have that will hellp us answer our questions. 
+The third question that we would like to ask is what should our expected return be given our budget? Lets begin with looking at the different datasets that  help us answer our questions. 
 ## Data
 We will be working with data from two sources.
 
@@ -31,8 +31,7 @@ The Numbers provides detailed movie financial analysis, including box office, DV
 ## Methods
 In this analysis we focused on ROI which is calculated (worldwide gross / production budget) x 100. We also focused on profit which is calculated (world wide gross - production budget).
 
-As a measure of central tendency due to the skewness of the distributions and the high number of outlier movies we used median instead of mean for the most part. I did make a visualization
-which shows the average budget per genre but the median is also displayed.
+As a measure of central tendency due to the skewness of the distributions and the high number of outlier movies we used median instead of mean for the most part. I did make a visualization which shows the average budget per genre but the median is also displayed.
 ## Results
 
 ![Genre ROI](https://github.com/inagib21/Movie-Data-Analysis/blob/main/GenreWithHighestROI.png)
@@ -56,7 +55,7 @@ The second visualization looked at the highest profiting genres. The formula we 
 The third Visualazition looked at the average budget per genre. The average budget for all genres was about 50 million dollars. The median amount for Adventure and Animation was closer to 100 million dollars while the Sci-Fi median was closer to 50 million. For the adventure budget, it is interesting to see that there were several outliers that were over 300 million dollars. To answer our second question about our movie budget I would recommend spending anywhere from 75 to 150 million if we make an Animation or Adventure film. If we decide to make a Sci-Fi film I would suggest that you can spend less starting at 50 million dollars and try not to spend over 150 million.
 
 
-To answer our third question on what our expected return should be I believe that it would make sense to have a portfolio of three movies with the genres that were recommended Animation, Adventure, and Sci-Fi. I would suggest we spend a maximum of 150 million per movie totaling 450 million for all thre movies. on that 450 million dollar investment, we should aim for a return of 250-275 percent which is a profit of 1.125-1.237 billion dollars.
+To answer our third question on what our expected return should be, I believe that it would make sense to have a portfolio of three movies with the genres that were recommended Animation, Adventure, and Sci-Fi. I would suggest we spend a maximum of 150 million per movie totaling 450 million for all thre movies. on that 450 million dollar investment, we should aim for a return of 250-275 percent which is a profit of 1.125-1.237 billion dollars.
 
 ## For More Information
 Please feel free to look at the Jupyter notebook https://github.com/inagib21/Movie-Data-Analysis/blob/main/student.ipynb 
