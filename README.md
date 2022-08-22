@@ -9,7 +9,7 @@ by Nagib Gonzalez
 For this project we will be working with Microsoft to help them create original video content. We will be working with various datasets to see what insights we can get from the films that are doing the best in the box office. To measure success of the films we will be looking into the return on investment (ROI) and profitability.
 ## Business Problem:
 
-Microsoft is looking to venture into the movie producing business. From a finacial standdpoinnt we will be looking into some of the 
+Microsoft is looking to venture into the movie producing business. From a finacial standpoinnt we will be looking into some of the 
 
 
 The first question that we would like to ask is what genres should we focus on making? 
