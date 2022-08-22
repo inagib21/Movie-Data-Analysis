@@ -60,4 +60,4 @@ To answer our third question on what our expected return should be, I believe th
 ## For More Information
 Please feel free to look at this Jupyter notebook which contains the code behind these visualizations https://github.com/inagib21/Movie-Data-Analysis/blob/main/student.ipynb 
 
-You can also check out my presesentation for this analysis https://github.com/inagib21/Movie-Data-Analysis/blob/main/movie%20data%20analysis%20presentation%20(2).pdf
+You can also check out my presesentation for this analysis https://github.com/inagib21/Movie-Data-Analysis/blob/main/movie%20data%20analysis%20presentation%20(3).pdf
